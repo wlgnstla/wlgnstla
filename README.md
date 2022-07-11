@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jin🎋</h1>
 
+Hello 🖐️ friends. Thanks for stopping by! I'm very passionate about learning and building things, and I hope to share my passion and knowledge to the community who's given me so much🤗
 
 I code with: 👇
 
