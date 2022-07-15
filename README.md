@@ -1,4 +1,4 @@
-<h1 align="center">🎋 Hi 👋, I'm Jin 🎋</h1>
+<h1 align="center"> Hi 👋, I'm Jin </h1>
 
 <a target="_blank" href="https://www.youtube.com/channel/UCyA8NILzpi30Ib9bd7XgN3g"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a target="_blank" href="https://www.youtube.com/channel/UCyA8NILzpi30Ib9bd7XgN3g"><img src="https://img.shields.io/youtube/channel/views/UCyA8NILzpi30Ib9bd7XgN3g?style=for-the-badge"> <img src="https://img.shields.io/youtube/channel/subscribers/UCyA8NILzpi30Ib9bd7XgN3g?style=for-the-badge"> </a>
 
