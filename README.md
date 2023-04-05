@@ -2,7 +2,7 @@
 
 
 Hello 🖐️ friends. Thanks for stopping by! I'm very passionate about learning and building things I want, and hope to share my passion and knowledge to the community who's given me so much🤗 Let's do this! ༼ง’̀-‘́༽ง 🚀 <br/> <br/>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) <br/><br/>
+ <br/><br/>
 Besides programming, I enjoy playing badminton 🏸, making Youtube videos 🎉, reading philosophy 📗, and watching anime 🌸 <br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
