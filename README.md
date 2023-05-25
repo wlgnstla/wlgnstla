@@ -5,6 +5,6 @@ Hello 🖐️ friends. Thanks for stopping by! I'm very passionate about learnin
  <br/><br/>
 Besides programming, I enjoy playing badminton 🏸, making Youtube videos 🎉, reading philosophy 📗, and watching anime 🌸 <br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
