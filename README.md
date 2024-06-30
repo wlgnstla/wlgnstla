@@ -1,3 +1,1 @@
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-
+To make the world a better place.
